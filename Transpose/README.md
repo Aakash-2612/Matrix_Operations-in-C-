@@ -1,4 +1,4 @@
-**Transpose of a 3X3 Matrix**
+#Transpose of a 3X3 Matrix
 
 The transpose of a matrix is a linear algebra operator that flips a matrix diagonally by flipping the row and column indices of matrix B and generating a new matrix. 
 That is,
