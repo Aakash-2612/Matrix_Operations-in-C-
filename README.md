@@ -16,8 +16,24 @@ Matrix is an ordered rectangular arrangement of numbers (real or complex) or fun
 # Square Matrices
 A matrix in which the number of rows is equal to the number of columns is called as a Square Matrix.
 For example:-
+
 [ [1, 2, 3],
   [4, 5, 6],
   [7, 8, 9]
 ]
 is a 3X3 matrix.
+
+
+# Operations
+Their are various operations which can be performed on a Matrix such as:-
+
+1. Addition
+2. Multiplication
+3. Transpose
+4. Square
+5. Cube
+etc.
+
+```
+This program written by me is capable of doing all the above mentioned operations on matrix.
+```
