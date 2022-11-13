@@ -1,5 +1,5 @@
 # Matrix_Operations-in-C-
-Code written in C language which can perform operations on Matrices like Addition, Multiplication, Transpose, Square and Cube of it.
+This code is written in C language which can perform operations on Matrices like Addition, Multiplication, Transpose, Square and Cube of it.
 
 # Matrices
 Matrices are one of the most powerful tools in mathematics. The evolution of the concept of matrices is the result of an attempt to obtain compact and simple methods of solving the system of linear equations.
